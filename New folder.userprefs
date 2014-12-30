@@ -1,0 +1,16 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\ClickOnBook.cs">
+    <Files>
+      <File FileName="Assets\Scripts\ClickOnBook.cs" Line="81" Column="6" />
+      <File FileName="Assets\Scripts\ClickBehavior.cs" Line="10" Column="28" />
+      <File FileName="Assets\Scripts\ClickEvent.cs" Line="8" Column="2" />
+      <File FileName="Assets\Scripts\Teleport.cs" Line="15" Column="1" />
+      <File FileName="Assets\Scripts\FirstPersonController.cs" Line="39" Column="10" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

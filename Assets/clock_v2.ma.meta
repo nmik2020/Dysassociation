@@ -1,0 +1,222 @@
+fileFormatVersion: 2
+guid: 646eb6b679267454fb34015cd9599f69
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Char_x_1
+    100002: Char_x_10
+    100004: Char_x_11
+    100006: Char_x_12
+    100008: Char_x_13
+    100010: Char_x_14
+    100012: Char_x_15
+    100014: Char_x_16
+    100016: Char_x_2
+    100018: Char_x_3
+    100020: Char_x_4
+    100022: Char_x_5
+    100024: Char_x_6
+    100026: Char_x_7
+    100028: Char_x_8
+    100030: Char_x_9
+    100032: //RootNode
+    100034: pCylinder1
+    100036: pCylinder2
+    100038: polySurface2
+    100040: polySurface3
+    100042: Text_x_1
+    100044: Text_xxxxxxxxxxxxxxxxxxxxxxxxxx_1
+    100046: transform1
+    100048: transform10
+    100050: transform2
+    100052: transform3
+    100054: transform4
+    100056: transform5
+    100058: transform6
+    100060: transform7
+    100062: transform8
+    100064: transform9
+    100066: Trim_Char_x_10_1
+    100068: Trim_Char_x_10_1 1
+    100070: Trim_Char_x_11_1
+    100072: Trim_Char_x_12_1
+    100074: Trim_Char_x_12_1 1
+    100076: Trim_Char_x_13_1
+    100078: Trim_Char_x_14_1
+    100080: Trim_Char_x_14_1 1
+    100082: Trim_Char_x_15_1
+    100084: Trim_Char_x_16_1
+    100086: Trim_Char_x_16_2
+    100088: Trim_Char_x_16_2 1
+    100090: Trim_Char_x_16_3
+    100092: Trim_Char_x_1_1
+    100094: Trim_Char_x_2_1
+    100096: Trim_Char_x_3_1
+    100098: Trim_Char_x_4_1
+    100100: Trim_Char_x_5_1
+    100102: Trim_Char_x_6_1
+    100104: Trim_Char_x_7_1
+    100106: Trim_Char_x_8_1
+    100108: Trim_Char_x_9_1
+    100110: Trim_Text_x_1_1
+    100112: Trim_Text_xxxxxxxxxxxxxxxxxxxxxxxxxx_1_1
+    400000: Char_x_1
+    400002: Char_x_10
+    400004: Char_x_11
+    400006: Char_x_12
+    400008: Char_x_13
+    400010: Char_x_14
+    400012: Char_x_15
+    400014: Char_x_16
+    400016: Char_x_2
+    400018: Char_x_3
+    400020: Char_x_4
+    400022: Char_x_5
+    400024: Char_x_6
+    400026: Char_x_7
+    400028: Char_x_8
+    400030: Char_x_9
+    400032: //RootNode
+    400034: pCylinder1
+    400036: pCylinder2
+    400038: polySurface2
+    400040: polySurface3
+    400042: Text_x_1
+    400044: Text_xxxxxxxxxxxxxxxxxxxxxxxxxx_1
+    400046: transform1
+    400048: transform10
+    400050: transform2
+    400052: transform3
+    400054: transform4
+    400056: transform5
+    400058: transform6
+    400060: transform7
+    400062: transform8
+    400064: transform9
+    400066: Trim_Char_x_10_1
+    400068: Trim_Char_x_10_1 1
+    400070: Trim_Char_x_11_1
+    400072: Trim_Char_x_12_1
+    400074: Trim_Char_x_12_1 1
+    400076: Trim_Char_x_13_1
+    400078: Trim_Char_x_14_1
+    400080: Trim_Char_x_14_1 1
+    400082: Trim_Char_x_15_1
+    400084: Trim_Char_x_16_1
+    400086: Trim_Char_x_16_2
+    400088: Trim_Char_x_16_2 1
+    400090: Trim_Char_x_16_3
+    400092: Trim_Char_x_1_1
+    400094: Trim_Char_x_2_1
+    400096: Trim_Char_x_3_1
+    400098: Trim_Char_x_4_1
+    400100: Trim_Char_x_5_1
+    400102: Trim_Char_x_6_1
+    400104: Trim_Char_x_7_1
+    400106: Trim_Char_x_8_1
+    400108: Trim_Char_x_9_1
+    400110: Trim_Text_x_1_1
+    400112: Trim_Text_xxxxxxxxxxxxxxxxxxxxxxxxxx_1_1
+    2300000: pCylinder1
+    2300002: pCylinder2
+    2300004: polySurface2
+    2300006: polySurface3
+    2300008: Trim_Char_x_10_1
+    2300010: Trim_Char_x_12_1
+    2300012: Trim_Char_x_14_1
+    2300014: Trim_Char_x_1_1
+    2300016: Trim_Char_x_2_1
+    2300018: Trim_Char_x_3_1
+    2300020: Trim_Char_x_4_1
+    2300022: Trim_Char_x_5_1
+    2300024: Trim_Char_x_6_1
+    2300026: Trim_Char_x_7_1
+    2300028: Trim_Char_x_8_1
+    2300030: Trim_Char_x_9_1
+    3300000: pCylinder1
+    3300002: pCylinder2
+    3300004: polySurface2
+    3300006: polySurface3
+    3300008: Trim_Char_x_10_1
+    3300010: Trim_Char_x_12_1
+    3300012: Trim_Char_x_14_1
+    3300014: Trim_Char_x_1_1
+    3300016: Trim_Char_x_2_1
+    3300018: Trim_Char_x_3_1
+    3300020: Trim_Char_x_4_1
+    3300022: Trim_Char_x_5_1
+    3300024: Trim_Char_x_6_1
+    3300026: Trim_Char_x_7_1
+    3300028: Trim_Char_x_8_1
+    3300030: Trim_Char_x_9_1
+    4300000: Trim_Char_x_1_1
+    4300002: Trim_Char_x_2_1
+    4300004: Trim_Char_x_3_1
+    4300006: Trim_Char_x_4_1
+    4300008: Trim_Char_x_5_1
+    4300010: Trim_Char_x_6_1
+    4300012: Trim_Char_x_7_1
+    4300014: Trim_Char_x_8_1
+    4300016: Trim_Char_x_9_1
+    4300018: Trim_Char_x_14_1
+    4300020: Trim_Char_x_12_1
+    4300022: Trim_Char_x_10_1
+    4300024: pCylinder1
+    4300026: polySurface2
+    4300028: polySurface3
+    4300030: pCylinder2
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

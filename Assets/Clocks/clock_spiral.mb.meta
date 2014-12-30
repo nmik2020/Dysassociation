@@ -1,0 +1,147 @@
+fileFormatVersion: 2
+guid: a9df7fa872599eb4f96e5abdb3c8bff7
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Circle001
+    100002: Circle002
+    100004: Circle003
+    100006: Circle004
+    100008: Circle005
+    100010: //RootNode
+    100012: Cone001
+    100014: Line001
+    100016: Line002
+    100018: Text001
+    100020: Text002
+    100022: Text003
+    100024: Text004
+    100026: Text005
+    100028: Text006
+    100030: Text007
+    100032: Text008
+    100034: Text009
+    400000: Circle001
+    400002: Circle002
+    400004: Circle003
+    400006: Circle004
+    400008: Circle005
+    400010: //RootNode
+    400012: Cone001
+    400014: Line001
+    400016: Line002
+    400018: Text001
+    400020: Text002
+    400022: Text003
+    400024: Text004
+    400026: Text005
+    400028: Text006
+    400030: Text007
+    400032: Text008
+    400034: Text009
+    2300000: Circle001
+    2300002: Circle002
+    2300004: Circle003
+    2300006: Circle004
+    2300008: Circle005
+    2300010: Cone001
+    2300012: Line001
+    2300014: Line002
+    2300016: Text001
+    2300018: Text002
+    2300020: Text003
+    2300022: Text004
+    2300024: Text005
+    2300026: Text006
+    2300028: Text007
+    2300030: Text008
+    2300032: Text009
+    3300000: Circle001
+    3300002: Circle002
+    3300004: Circle003
+    3300006: Circle004
+    3300008: Circle005
+    3300010: Cone001
+    3300012: Line001
+    3300014: Line002
+    3300016: Text001
+    3300018: Text002
+    3300020: Text003
+    3300022: Text004
+    3300024: Text005
+    3300026: Text006
+    3300028: Text007
+    3300030: Text008
+    3300032: Text009
+    4300000: Circle001
+    4300002: Circle002
+    4300004: Circle003
+    4300006: Circle004
+    4300008: Circle005
+    4300010: Text001
+    4300012: Text002
+    4300014: Text003
+    4300016: Text004
+    4300018: Text005
+    4300020: Text006
+    4300022: Text007
+    4300024: Text008
+    4300026: Text009
+    4300028: Line001
+    4300030: Line002
+    4300032: Cone001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
